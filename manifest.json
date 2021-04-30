@@ -1,0 +1,22 @@
+{
+	"name":"Interactives PWA",
+	"short_name":"PWA",
+	"start_url":"index.html",
+	"display":"standalone",
+	"background_color":"#5900b3",
+	"theme_color":"black",
+	"scope": ".",
+	"description":"PWA Example.",
+	"icons":[
+	{
+	"src":"images/icon_344x344.png",					
+	"sizes":"344x344",
+	"type":"image/png"
+	},
+	{
+	"src":"images/icon_80x80.png",					
+	"sizes":"80x80",
+	"type":"image/png"
+	}
+]
+}
